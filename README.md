@@ -2,7 +2,7 @@
 
 A comprehensive system for managing farmers, fields, harvests, payments, and reports with a React frontend and MongoDB backend.
 
-## Project Structure.
+## Project Structure
 
 ``
 .
@@ -71,7 +71,7 @@ A comprehensive system for managing farmers, fields, harvests, payments, and rep
    npm install
    ```
 
-### Configuration
+### Configuration,
 
 1. Configure MongoDB connection in `backend/.env`:
    ```env
