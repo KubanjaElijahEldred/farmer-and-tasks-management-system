@@ -71,7 +71,7 @@ A comprehensive system for managing farmers, fields, harvests, payments, and rep
    npm install
    ```
 
-### Configuration,
+### Configuration
 
 1. Configure MongoDB connection in `backend/.env`:
    ```env
