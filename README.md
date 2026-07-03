@@ -25,10 +25,10 @@ A comprehensive system for managing farmers, fields, harvests, payments, and rep
 └── frontend/                # React + TypeScript frontend
     ├── src/                 # Source code
     │   ├── services/        # API service clients
-    │   ├── App.tsx          # Main application component
+    │   ├── App.tsx          # Main application component,
     │   └── main.tsx         # Entry point
     ├── package.json         # Frontend dependencies
-    └── README.md            # Frontend documentation
+    └── README.md            # Frontend documentation,
 ```
 
 ## Technology Stack
