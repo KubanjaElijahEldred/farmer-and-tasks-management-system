@@ -1,6 +1,6 @@
 # Farmer Management System
 
-A comprehensive system for managing farmers, fields, harvests, payments, and reports with a React frontend and MongoDB backend.
+A comprehensive system for managing farmers, fields, harvests, payments, and reports with a React frontend and MongoDB 
 
 ## Project Structure
 
