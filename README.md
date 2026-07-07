@@ -28,7 +28,7 @@ A comprehensive system for managing farmers, fields, harvests, payments, and rep
     │   ├── App.tsx          # Main application component,
     │   └── main.tsx         # Entry point
     ├── package.json         # Frontend dependencies
-    └── README.md            # Frontend documentation,
+    └── README.md            # Frontend documentation
 ```
 
 ## Technology Stack
@@ -98,7 +98,7 @@ cd frontend
 npm run dev
 ```
 
-The frontend development server will start on port 5173 by default.
+The frontend development server will start on port 5173 by default
 
 ### Building for Production
 
