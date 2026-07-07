@@ -1,4 +1,4 @@
-# Farmer Management System
+# Farmer Management, System
 
 A comprehensive system for managing farmers, fields, harvests, payments, and reports with a React frontend and MongoDB 
 
@@ -65,7 +65,7 @@ A comprehensive system for managing farmers, fields, harvests, payments, and rep
    npm install
    ```
 
-3. Install backend dependencies:
+3. Install,backend dependencies:
    ```bash
    cd backend
    npm install
